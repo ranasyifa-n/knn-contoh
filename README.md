@@ -1,2 +1,2 @@
-# ahc-and-moran
+# knn-contoh
 Undergraduate thesis project
