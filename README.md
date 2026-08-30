@@ -1,3 +1,3 @@
 # knn-contoh
-Undergraduate thesis project
-test
+ini contoh aja
+
