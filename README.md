@@ -1,2 +1,2 @@
 # knn-contoh
-Undergraduate thesis project
+ini contoh aja
